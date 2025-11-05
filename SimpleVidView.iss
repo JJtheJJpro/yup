@@ -39,52 +39,52 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\target\release\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\api-ms-win-core-file-l1-2-0.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\api-ms-win-core-file-l2-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\api-ms-win-core-localization-l1-2-0.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\api-ms-win-core-processthreads-l1-1-1.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\api-ms-win-core-synch-l1-2-0.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\api-ms-win-core-timezone-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\api-ms-win-crt-convert-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\api-ms-win-crt-environment-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\api-ms-win-crt-filesystem-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\api-ms-win-crt-heap-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\api-ms-win-crt-locale-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\api-ms-win-crt-math-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\api-ms-win-crt-multibyte-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\api-ms-win-crt-runtime-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\api-ms-win-crt-stdio-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\api-ms-win-crt-string-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\api-ms-win-crt-time-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\api-ms-win-crt-utility-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\avcodec-61.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\avdevice-61.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\avfilter-10.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\avformat-61.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\avutil-59.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\brotlicommon.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\brotlidec.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\brotlienc.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\freetype.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\harfbuzz.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\jxl.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\jxl_cms.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\jxl_threads.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\libsharpyuv.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\libwebp.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\libwebpmux.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\libx264-164.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\libx265.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\postproc-58.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\SDL2.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\simplevidview.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\swresample-5.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\swscale-8.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\vcruntime140.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\vcruntime140_1.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\vcruntime140_threads.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\jjthe\OneDrive\Desktop\Visual Studio Code\yup\dll\zlib1.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\target\release\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\api-ms-win-core-file-l1-2-0.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\api-ms-win-core-file-l2-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\api-ms-win-core-localization-l1-2-0.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\api-ms-win-core-processthreads-l1-1-1.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\api-ms-win-core-synch-l1-2-0.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\api-ms-win-core-timezone-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\api-ms-win-crt-convert-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\api-ms-win-crt-environment-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\api-ms-win-crt-filesystem-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\api-ms-win-crt-heap-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\api-ms-win-crt-locale-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\api-ms-win-crt-math-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\api-ms-win-crt-multibyte-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\api-ms-win-crt-runtime-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\api-ms-win-crt-stdio-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\api-ms-win-crt-string-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\api-ms-win-crt-time-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\api-ms-win-crt-utility-l1-1-0.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\avcodec-61.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\avdevice-61.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\avfilter-10.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\avformat-61.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\avutil-59.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\brotlicommon.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\brotlidec.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\brotlienc.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\freetype.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\harfbuzz.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\jxl.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\jxl_cms.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\jxl_threads.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\libsharpyuv.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\libwebp.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\libwebpmux.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\libx264-164.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\libx265.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\postproc-58.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\SDL2.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\simplevidview.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\swresample-5.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\swscale-8.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\vcruntime140.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\vcruntime140_1.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\vcruntime140_threads.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: ".\dll\zlib1.dll"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
